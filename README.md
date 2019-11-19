@@ -1,5 +1,5 @@
-# tessellation
-立方体を細かく分割して凹凸のある表面を作ります。
+# signed distance fields
+境界からの符号付き距離を利用して、キレのある線をつくったり、氷の角を取ります。
 
 ![結果画像](result.png)
 
