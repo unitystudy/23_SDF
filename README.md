@@ -1,4 +1,4 @@
-# tessellation
+# signed distance fields
 立方体を細かく分割して凹凸のある表面を作ります。
 
 ![結果画像](result.png)
